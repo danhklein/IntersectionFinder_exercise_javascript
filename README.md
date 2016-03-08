@@ -1,0 +1,1 @@
+# IntersectionFinder_exercise_javascript
